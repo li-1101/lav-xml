@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <scenarios>
-    <scenario name="RoadsideVehicleLanching_1" type="RoadsideVehicleLanching" town="Town05">
+    <scenario name="RoadsideVehicleLanching_1" type="RoadsideVehicleLanching" town="Town03">
         <ego_vehicle x="-74.4" y="-153.2" z="0" yaw="180" model="mercedes-benz.coupe" />
         
         
