@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="RoadsideVehicleLanching_1" type="RoadsideVehicleLanching" town="Town05">
+        <ego_vehicle x="-74.4" y="-153.2" z="0" yaw="180" model="mercedes-benz.coupe" />
+        
+        
+	<!-- spawn actors-->     
+    <rs_vehicle1 x="-71.5" y="-110" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+    <rs_vehicle2 x="-71.5" y="-104.5" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+    <rs_vehicle3="-71.5" y="-99" z="0" yaw="180" model="vehicle.tesla.model3" />
+    <lanch_vehicle4 x="-71.5" y="-93.5" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+    <rs_vehicle5 x="-71.5" y="-88" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+    <rs_vehicle6 x="-71.5" y="-82.5" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+    <rs_vehicle7 x="-71.5" y="-77" z="0" yaw="180" model="vehicle.lincoln.mkz2017" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+
+</scenarios>
